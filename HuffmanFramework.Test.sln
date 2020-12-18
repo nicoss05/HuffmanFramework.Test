@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuffmanFramework.Test", "HuffmanFramework.Test\HuffmanFramework.Test.csproj", "{A529E636-7B64-49F8-9BC9-FE0910C3FC4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A529E636-7B64-49F8-9BC9-FE0910C3FC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A529E636-7B64-49F8-9BC9-FE0910C3FC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A529E636-7B64-49F8-9BC9-FE0910C3FC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A529E636-7B64-49F8-9BC9-FE0910C3FC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E35FE5F4-5AD7-4FBE-A1F6-D18DDAFFAFF3}
+	EndGlobalSection
+EndGlobal
